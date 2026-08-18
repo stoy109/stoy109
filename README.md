@@ -26,12 +26,3 @@ $ cat bio.json
 }
 ```
 
----
-
-
-### 📊 GitHub Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00FF66&text_color=c9d1d9" alt="Stoy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" />
-</div>
