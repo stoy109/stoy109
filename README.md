@@ -6,8 +6,8 @@
   <br />
 
   <h1>Hi there, I'm <span style="color: #00F0FF;">Stoy</span> 👋</h1>
-
----
+  
+</div>
 
 ### ⚡ About Me
 
