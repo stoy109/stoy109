@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Pure SVG Terminal Header -->
-  <img src="./companion.svg" alt="Terminal Companion" width="460" />
+  <img src="./companion.svg" alt="Terminal Companion" width="520" />
 
   <br />
 
