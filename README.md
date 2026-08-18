@@ -6,13 +6,9 @@
   <br />
 
   <h1>Hi there, I'm <span style="color: #00F0FF;">Stoy</span> 👋</h1>
-  <p><strong>Software Engineer &amp; Fullstack Developer</strong></p>
-  <p><em>Building elegant systems, developer tools, and crafting pixel-perfect interfaces.</em></p>
 
   <p>
     <a href="https://github.com/stoy"><img src="https://img.shields.io/badge/Status-Building-00FF66?style=flat-square&logo=visualstudiocode&logoColor=black" alt="Status" /></a>
-    <a href="https://github.com/stoy"><img src="https://img.shields.io/badge/Focus-TypeScript%20%7C%20Rust%20%7C%20Go-00F0FF?style=flat-square" alt="Focus" /></a>
-    <a href="https://github.com/stoy"><img src="https://img.shields.io/badge/License-MIT-FF5588?style=flat-square" alt="License" /></a>
   </p>
 
 </div>
