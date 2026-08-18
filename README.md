@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**stoy109/stoy109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Animated Pure SVG Terminal Header -->
+  <img src="./companion.svg" alt="Terminal Companion" width="460" />
 
-Here are some ideas to get you started:
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>Hi there, I'm <span style="color: #00F0FF;">Stoy</span> 👋</h1>
+  <p><strong>Software Engineer &amp; Fullstack Developer</strong></p>
+  <p><em>Building elegant systems, developer tools, and crafting pixel-perfect interfaces.</em></p>
+
+  <p>
+    <a href="https://github.com/stoy"><img src="https://img.shields.io/badge/Status-Building-00FF66?style=flat-square&logo=visualstudiocode&logoColor=black" alt="Status" /></a>
+    <a href="https://github.com/stoy"><img src="https://img.shields.io/badge/Focus-TypeScript%20%7C%20Rust%20%7C%20Go-00F0FF?style=flat-square" alt="Focus" /></a>
+    <a href="https://github.com/stoy"><img src="https://img.shields.io/badge/License-MIT-FF5588?style=flat-square" alt="License" /></a>
+  </p>
+
+</div>
+
+---
+
+### ⚡ About Me
+
+```zsh
+$ cat bio.json
+{
+  "name": "Stoy",
+  "location": "Indonesia",
+  "hobbies": ["Tinkering with Tech"],
+}
+```
+
+---
+
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00FF66&text_color=c9d1d9" alt="Stoy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" />
+</div>
