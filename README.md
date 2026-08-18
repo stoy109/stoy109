@@ -16,7 +16,7 @@ $ cat bio.json
 {
   "name": "Stoy",
   "location": "Indonesia",
-  "hobbies": ["Tinkering with Tech"],
+  "hobbies": ["Tinkering with Tech"], [Rhythm Game]
 }
 ```
 
